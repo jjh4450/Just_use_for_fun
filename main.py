@@ -129,6 +129,7 @@ def main():
     time.sleep(1)
     Fid('survey_q3a1')
     time.sleep(1)
-
+    #survey_q(문항 숫자)a(1:아니요 2:예)
+    
     # 확인 누름
     Fid('btnConfirm')
