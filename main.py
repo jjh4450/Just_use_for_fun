@@ -49,6 +49,7 @@ def main():
     Fid('sidolabel')
     sidolabel('<City/Province>')
     ''' 
+        <City/Province>
         서울:01
         부산:02
         대구:03
@@ -73,6 +74,7 @@ def main():
     sidolabel('<school_level>')
 
     ''' 
+        <school_level>
         유치원:1
         초등학교: 2
         중학교: 3
